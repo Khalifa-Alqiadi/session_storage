@@ -1,0 +1,116 @@
+/* Start Main Rulez */
+
+body{
+    background-color: #F4F4F4;
+    font-size: 14px;
+    height: 3000px;
+}
+
+h1{
+    margin: 40px 0px;
+    font-weight: bold;
+    color: #00000094;
+}
+
+.naice-message{
+    background-color: white;
+    width: 90%;
+    margin: 63px;
+    padding: 17px;
+    font-weight: bold;
+    border-left: 9px solid #080;
+}
+
+.asterisk{
+    position: absolute;
+    font-size: 24px;
+    right: 1%;
+    margin-top: -38px;
+    color: red;
+}
+
+.main-form .asterisk{
+    position: absolute;
+    font-size: 29px;
+    right: 35%;
+    margin-top: -44px;
+    color: red;
+}
+
+a{
+    text-decoration: none;
+}
+
+/* End Main Rulez */
+
+/* Start bootstrap Navbar */
+
+.navbar{
+    margin-bottom: 14px;
+}
+.navbar-light .navbar-brand{
+    font-size: 1em;
+    margin-right: 9px;
+} 
+
+/* End bootstrap Navbar */
+
+
+/* Start New Ad Page */
+
+.information .col-md-4 .view-items .card{
+    margin: 34px;
+    margin-top: -3px;
+    padding-bottom: 0px;
+}
+
+.information .form-horizontal select{
+    width: 100%;
+    padding: 9px;
+    background-color: #f2f2f2;
+    border: 1px solid #CCC;
+    border-radius: 5px;
+}
+
+.information .form-horizontal span{
+    padding: 10px;
+}
+
+/* End New Ad Page */
+.card .price-items{
+    position: absolute;
+    top: 16%;
+    background-color: #945959;
+    left: -1px;
+    padding: 5px 13px;
+    font-weight: bold;
+    color: #FFF;
+    box-shadow: -3px 4px 7px 1px #9f9a9a;
+}
+
+.card .img-items{
+    background-color: #b1b0b03d;
+    border: 1px solid #CCC;
+    padding: 2px;  
+}
+
+.card .img-items .img-top{
+    width: 100%;
+    padding: 8px;
+    max-height: 264px;
+    height: 300px;
+}
+.card h3{
+    font-size: 18px;
+}
+
+
+/* end card  */
+
+.cart{
+    display: flex;
+    width: 100%;
+    flex-direction: row;
+}
+
+
